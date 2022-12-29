@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatimah Al-Mutairi</h1>
-<h3 align="center">Front-end Web Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
